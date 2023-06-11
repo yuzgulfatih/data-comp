@@ -1,8 +1,3 @@
-# LZW Encoder
-# Name: Aditya Gupta
-# ID: 800966229
-# ITCS 6114
-
 import sys
 from sys import argv
 from struct import *
